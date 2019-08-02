@@ -1,0 +1,32 @@
+ @import url('https://fonts.googleapis.com/css?family=Marck+Script&display=swap');
+ h1,#message-list, #new-message {
+      margin: 20px;
+    }
+
+   .tittle {
+        font-family: 'Marck Script', cursive;
+        letter-spacing: 7px;
+        margin-left: 95px;
+        font-size: 60px
+     }
+    #message-list {
+      border: 5px solid rgb(185, 155, 155);
+      width: 79%;
+      min-height: 100px;
+      background-color: #d0fcff;
+      border-radius: 40px;
+    }
+
+    #message-input {
+      width: 30%;
+      font-size: 20px;
+      padding: 5px;
+      margin-left: 250px;
+      border-radius: 3px
+    }
+
+    #submit {
+    border-radius: 1px;
+    font-size: 20px;
+    padding: 5px;
+    }
